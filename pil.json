@@ -1,0 +1,99 @@
+{
+    "Accounts": {
+        "Account": [{
+            "Username": [
+                "3HE1L7HB7"
+            ],
+            "Password": [
+                ""
+            ],
+            "TimeUsed": [
+                "10800"
+            ],
+            "TimeLeft": [
+                "0"
+            ],
+            "UnlimitedTime": [
+                "False"
+            ],
+            "Quota": [
+                "0"
+            ],
+            "UnlimitedQuota": [
+                "True"
+            ],
+            "GroupPlanID": [
+                "2"
+            ],
+            "AccessFromTo": [
+                "False"
+            ],
+            "AccessID": [
+                "1"
+            ],
+            "EnableExpire": [
+                "False"
+            ],
+            "Expire": [
+                ""
+            ],
+            "ExpireIn": [
+                "4"
+            ],
+            "ExpireAfter": [
+                "0"
+            ],
+            "EnableDailyTime": [
+                "False"
+            ],
+            "DailyTime": [
+                "0"
+            ],
+            "EnableDailyQuota": [
+                "False"
+            ],
+            "DailyQuota": [
+                "0"
+            ],
+            "EnableDailyLogins": [
+                "False"
+            ],
+            "DailyLogins": [
+                "0"
+            ],
+            "Download": [
+                "131072"
+            ],
+            "Upload": [
+                "65536"
+            ],
+            "GenerateID": [
+                "1"
+            ],
+            "Loggedin": [
+                "0"
+            ],
+            "DailyQuotaLeft": [
+                "0"
+            ],
+            "FirstUsed": [
+                ""
+            ],
+            "LastUsed": [
+                ""
+            ],
+            "EnableMonthlyTime": [
+                "False"
+            ],
+            "MonthlyTime": [
+                "0"
+            ],
+            "EnableMonthlyQuota": [
+                "False"
+            ],
+            "MonthlyQuota": [
+                "0"
+            ]
+        }]
+    }
+}
